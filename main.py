@@ -15,4 +15,4 @@ for char in string:
 print("空格数量:", spa)
 print("数字数量:", num)
 print("英文字符数量:", alp)
-print("其他字符数量:", oth)# 这个文件用于编写代码
+print("其他字符数量:", oth)
